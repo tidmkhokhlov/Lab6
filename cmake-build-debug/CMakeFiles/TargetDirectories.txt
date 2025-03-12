@@ -1,0 +1,3 @@
+D:/Education/2 Course/Управление данными/Lab6/cmake-build-debug/CMakeFiles/PostgresExample.dir
+D:/Education/2 Course/Управление данными/Lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Education/2 Course/Управление данными/Lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

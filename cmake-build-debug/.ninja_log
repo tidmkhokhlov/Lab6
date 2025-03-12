@@ -1,0 +1,7 @@
+# ninja log v6
+1560	1670	7634864751957562	PostgresExample.exe	a048fb84911a6cd6
+5	1560	7634864736410357	CMakeFiles/PostgresExample.dir/main.cpp.obj	ecf52a9427e6f562
+5	1476	7634866361357155	CMakeFiles/PostgresExample.dir/main.cpp.obj	ecf52a9427e6f562
+1477	1568	7634866376067312	PostgresExample.exe	a048fb84911a6cd6
+16	4389	7634885502248950	CMakeFiles/PostgresExample.dir/main.cpp.obj	ecf52a9427e6f562
+4391	4725	7634885545999225	PostgresExample.exe	a048fb84911a6cd6
